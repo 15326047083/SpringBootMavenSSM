@@ -1,4 +1,4 @@
-package com.ambow.leiyuan.ssmtest;
+package com.ambow.leiyuan;
 
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
